@@ -5,7 +5,7 @@
     <summary>
       <h1>Scaling Offline RL via <br> Efficient and Expressive Shortcut Models</h1>
       <br>
-      <h2><a href="https://arxiv.org/abs/2505.22866">Paper</a> | <a href="https://nico-espinosadice.github.io/projects/sorl/">Project Page</a></h2>
+      <h2><a href="https://arxiv.org/abs/2505.22866">Paper</a> | <a href="https://nico-espinosadice.github.io/projects/sorl/">Project Page</a>< | <a href="https://x.com/nico_espinosa_d/status/1933209680609788170">Thread</a> /h2>
     </summary>
   </ul>
 </div>
